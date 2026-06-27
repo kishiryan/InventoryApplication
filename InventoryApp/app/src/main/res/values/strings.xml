@@ -1,0 +1,50 @@
+<!-- @Strings/ -->
+<resources>
+    <!-- App Title -->
+    <string name="app_name">Inventory+</string>
+
+    <!-- Log In Drop Page Activity -->
+    <string name="signIn">Sign In</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">LOG IN</string>
+    <string name="createAccount">CREATE ACCOUNT</string>
+
+    <!-- Database Display Fragment -->
+    <string name="add_item">Add Item</string>
+    <string name="noInventoryItemsFound">No Inventory Items Found</string>
+    <string name="delete">Delete</string>
+
+    <!-- Add Inventory Item Fragment -->
+    <string name="btnAddInventoryItem">Add Inventory Item</string>
+    <string name="addInventoryItem">Add Inventory Item</string>
+    <string name="itemName">Item Name</string>
+    <string name="itemQty">Item Quantity</string>
+    <string name="reorderNum">Reorder @</string>
+
+    <!-- Edit Inventory Item Fragment-->
+    <string name="profile">Profile</string>
+    <string name="account">Account</string>
+    <string name="permissions">Permission</string>
+    <string name="logout">Log out</string>
+
+    <!-- SMS Fragment-->
+    <string name="sms">SMS</string>
+    <string name="smsAlerts">SMS ALERTS</string>
+    <string name="enableSMSPermission">ENABLE SMS PERMISSION</string>
+    <string name="smsLowInventory">SMS LOW INVENTORY</string>
+    <string name="sms_alerts_granted">SMS ALERTS - GRANTED</string>
+    <string name="sms_permission_enabled">SMS PERMISSION ENABLED</string>
+    <string name="sms_alerts_not_granted">SMS ALERTS - NOT GRANTED</string>
+    <string name="enable_sms_permission">ENABLE SMS PERMISSION</string>
+    <string name="noLowInventoryAlerts">NO LOW INVENTORY ALERTS</string>
+    <string name="sendLowInventoryAlerts">SEND LOW INVENTORY ALERTS</string>
+
+    <!-- Edit Inventory Item Fragment-->
+    <string name="editInventoryItem">Edit Inventory Item</string>
+    <string name="itemNameExisting">Item Name (existing)</string>
+    <string name="changeItemNameTo">Change Item Name To:</string>
+    <string name="changeQtyTo">Change Item Quantity To:</string>
+    <string name="changeReorderAmount">Change Reorder @:</string>
+    <string name="saveChanges">SAVE CHANGES</string>
+</resources>
